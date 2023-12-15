@@ -33,7 +33,7 @@ if user_input:
     llm_config = [{
         "model": "jdcraig",
         "api_key": os.environ.get("api_key"),
-        "base_url": "https://cgai.openai.azure.com/",
+        "base_url": "https://xxxxx.openai.azure.com/",
         "api_type": "azure",
         "api_version": "2023-07-01-preview"
     }
